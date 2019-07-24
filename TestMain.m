@@ -5,3 +5,6 @@
 
 x = 2;
 y = 3;
+
+z = x + y;
+fprintf('x + y = %d \n', z) ;
