@@ -4,7 +4,7 @@
 % @Last Modified time: 2019-07-24 15:42:27
 
 x = 2;
-y = 15;
+y = 20;
 
 z = x + y;
 fprintf('x + y = %d \n', z) ;
