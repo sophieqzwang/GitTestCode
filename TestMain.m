@@ -1,7 +1,7 @@
 % @Author: Sophie Calder-Wang
 % @Date:   2019-07-24 15:10:12
 % @Last Modified by:   Sophie Calder-Wang
-% @Last Modified time: 2019-07-24 17:14:20
+% @Last Modified time: 2019-08-08 15:24:50
 
 x = 2;
 y = 30;
@@ -10,3 +10,4 @@ z = x + y;
 fprintf('x + y = %d \n', z) ;
 
 fprintf('Hello Sophie');
+fprintf('Hello World');
